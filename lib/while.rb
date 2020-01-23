@@ -1,10 +1,10 @@
 def using_while
-  levitation_force = 10
-  counter = + 1
+  levitation_force = 6
+  counter = + 6
 	phrase = Wingardium Leviosa
 	
-  # puts "phrase (levitation_force)" 
-  while levitation_force >= 10
+  # puts "Wingardium Leviosa # (counter)" .
+  while levitation_force >= 6
 end
   
 end
